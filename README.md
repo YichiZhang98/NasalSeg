@@ -10,8 +10,8 @@ Yichi Zhang, Jing Wang, Tan Pan, Quanling Jiang, Jingjie Ge, Xin Guo, Chen Jiang
 
 *  Some information about the NasalSeg dataset is presented in the following.
 
-![image](https://github.com/YichiZhang98/NasalSeg/tree/main/fig/example.png)
+![image](https://github.com/YichiZhang98/NasalSeg/blob/main/fig/example.png)
 
-![image](https://github.com/YichiZhang98/NasalSeg/tree/main/fig/workflow.png)
+![image](https://github.com/YichiZhang98/NasalSeg/blob/main/fig/workflow.png)
 
 Built upon [nnUNet](https://github.com/MIC-DKFZ/nnUNet), five-fold cross-validation experiments are conducted during the establishment of the NasalSeg dataset. The details are described in our paper.
